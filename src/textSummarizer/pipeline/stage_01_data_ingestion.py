@@ -4,7 +4,7 @@ from src.textSummarizer.logging import logger
 from pathlib import Path
 
 # load Pipeline
-class DataIngestionPipeline:
+class DataIngestionTrainingPipeline:
     def __init__(self):
 
             pass
